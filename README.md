@@ -17,7 +17,7 @@ Automated onboarding using Power Apps, Power Automate, and Microsoft 365. Reduce
 ### [predictive-maintenance-ai](https://github.com/gehanmassoud/predictive-maintenance-ai)
 AI-driven predictive maintenance for manufacturing with Azure ML, IoT Hub & D365 Field Service. Cut unplanned downtime by 25%.
 
-### [cross-solution-ai-hackathon](https://github.com/gehanmassoud/cross-solution-ai-hackathon)
+### [cross-solution-ai-hackathon](https://github.com/Gehanmassoud/m365-copilot-hackathon-kit)
 AI innovation kit using Copilot Studio, GitHub Copilot, Power Platform, and M365. Includes pitch deck generator and rapid prototypes.
 
 ### [dcnn-image-classification-azureml](https://github.com/gehanmassoud/dcnn-image-classification-azureml)
