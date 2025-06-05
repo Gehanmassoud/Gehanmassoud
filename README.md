@@ -5,26 +5,24 @@ Senior Technical Architect with expertise in Microsoft Power Platform, Azure AI,
 ---
 
 ## 📂 Featured AI & Cloud Projects
-
-### [copilot-sales-insights](https://github.com/YOUR_USERNAME/copilot-sales-insights)
+### [copilot-sales-insights](https://github.com/gehanmassoud/copilot-sales-insights)
 AI Copilot for Sales Insights powered by D365 Sales, Power BI, and Azure OpenAI. Delivers pipeline analytics and sentiment insights. Boosted lead conversion in simulations by 22%.
 
-### [ai-customer-support-portal](https://github.com/YOUR_USERNAME/ai-customer-support-portal)
+### [ai-customer-support-portal](https://github.com/gehanmassoud/ai-customer-support-portal)
 Low-code Copilot Studio chatbot integrated with D365 Customer Service. Handles FAQ, status queries, and escalation, cutting support response time by 30%.
 
-### [onboarding-power-platform](https://github.com/YOUR_USERNAME/onboarding-power-platform)
+### [onboarding-power-platform](https://github.com/gehanmassoud/onboarding-power-platform)
 Automated onboarding using Power Apps, Power Automate, and Microsoft 365. Reduced manual effort by 40% and improved new hire readiness.
 
-### [predictive-maintenance-ai](https://github.com/YOUR_USERNAME/predictive-maintenance-ai)
+### [predictive-maintenance-ai](https://github.com/gehanmassoud/predictive-maintenance-ai)
 AI-driven predictive maintenance for manufacturing with Azure ML, IoT Hub & D365 Field Service. Cut unplanned downtime by 25%.
 
-### [cross-solution-ai-hackathon](https://github.com/YOUR_USERNAME/cross-solution-ai-hackathon)
+### [cross-solution-ai-hackathon](https://github.com/gehanmassoud/cross-solution-ai-hackathon)
 AI innovation kit using Copilot Studio, GitHub Copilot, Power Platform, and M365. Includes pitch deck generator and rapid prototypes.
 
-### [dcnn-image-classification-azureml](https://github.com/YOUR_USERNAME/dcnn-image-classification-azureml)
+### [dcnn-image-classification-azureml](https://github.com/gehanmassoud/dcnn-image-classification-azureml)
 Trained a TensorFlow DCNN with MobileNetV2 and deployed via Azure ML. Includes REST endpoint for real-time image classification.
 
----
 
 ## 🧠 Technologies I Use
 
