@@ -19,7 +19,7 @@ AI-driven predictive maintenance for manufacturing with Azure ML, IoT Hub & D365
 ### [cross-solution-ai-hackathon](https://github.com/Gehanmassoud/m365-copilot-hackathon-kit)
 AI innovation kit using Copilot Studio, GitHub Copilot, Power Platform, and M365. Includes pitch deck generator and rapid prototypes.
 
-### [dcnn-image-classification-azureml](https://github.com/gehanmassoud/dcnn-image-classification-azureml)
+### [dcnn-image-classification-azureml](https://github.com/Gehanmassoud/azureml-iot-predictive-maintenance)
 Trained a TensorFlow DCNN with MobileNetV2 and deployed via Azure ML. Includes REST endpoint for real-time image classification.
 
 
