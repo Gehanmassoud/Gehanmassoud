@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gehan Massoud
 
-🚀 Senior Technical Architect with expertise in Microsoft Power Platform, Azure AI, Dynamics 365, and Copilot solutions. Passionate about delivering AI-driven business innovation and real-world impact.
+Senior Technical Architect with expertise in Microsoft Power Platform, Azure AI, Dynamics 365, and Copilot solutions. Passionate about delivering AI-driven business innovation and real-world impact.
 
 ---
 
