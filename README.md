@@ -25,10 +25,10 @@ Trained a TensorFlow DCNN with MobileNetV2 and deployed via Azure ML. Includes R
 
 ## 🧠 Technologies I Use
 
-`Power Platform` · `Power BI` · `Azure AI` · `Dynamics 365` · `Copilot Studio`  
-`TensorFlow` · `Keras` · `Python` · `Azure ML` · `GitHub Actions`
+Power Platform · Power BI · Azure AI · Dynamics 365 · Copilot Studio
+TensorFlow · Keras · Python · Azure ML · GitHub Actions
+Microsoft SQL Server · Hadoop · Spark · Scala
 
----
 
 ## 📫 Connect With Me
 
