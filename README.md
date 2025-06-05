@@ -2,7 +2,6 @@
 
 Senior Technical Architect with expertise in Microsoft Power Platform, Azure AI, Dynamics 365, and Copilot solutions. Passionate about delivering AI-driven business innovation and real-world impact.
 
----
 
 ## 📂 Featured AI & Cloud Projects
 ### [copilot-sales-insights](https://github.com/gehanmassoud/copilot-sales-insights)
